@@ -93,3 +93,29 @@ main {
 footer {
     background-color: blue;
 }
+
+/* Media query: Tablets and larger (768px and up) */
+@media  screen and (min-width: 768px) {
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 10px; 
+    }
+    #menu {
+        display: flex;
+    }
+    #menu > li {
+        padding-left: 40px;
+    }
+    .nav-toggle-label {
+        display: none;
+    }
+    /* Main Content */
+    main {
+        /* Push main content down to accomodate larger header */
+    margin-top: 130px;
+    }
+}
