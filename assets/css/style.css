@@ -28,8 +28,29 @@ header {
     box-shadow: 0px 10px 10px #a1a1a1;
 }
 
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
 h1 {
     font-family: roboto, sans-serif;  
+    letter-spacing: 5px;
+    color: #000000;
+}
+
+#menu {
+    letter-spacing: 4px;  
+    font-size: 110%;
+    list-style-type: none;
+}
+
+#menu > li {
+    margin-bottom: 30px;
+}
+
+.active {
+    border-bottom: 3px solid #000000;
 }
 
 /* Main Content */
