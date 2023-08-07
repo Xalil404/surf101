@@ -106,6 +106,7 @@ footer {
     }
     #menu {
         display: flex;
+        flex-wrap: wrap;
     }
     #menu > li {
         padding-left: 40px;
