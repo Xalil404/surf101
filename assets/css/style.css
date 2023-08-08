@@ -213,6 +213,15 @@ main {
     margin-bottom: 20px;
 }
 
+/* Equipment Video */
+#equipment_video video {
+    max-width: 100%;
+    height: auto;
+    margin-left: 40px;
+    overflow-x: hidden;
+    
+}
+
 /* Footer */
 #closing-line {
     height: 5px;  
@@ -297,5 +306,11 @@ footer {
 
 #equip-1 p {
     font-size: 30px;
+}
+
+/* Equipment Video */
+#equipment_video {
+    display: flex;
+    justify-content: center;
 }
 }
