@@ -171,6 +171,25 @@ main {
     padding: 5px 10px;
 }
 
+/* Styling of the intro text on all pages */
+#introduction {
+    text-align: justify;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;  
+    font-size: 25px;
+    letter-spacing: 0.5px;
+    line-height: 1.9;
+    
+}
+
+#introduction h5 {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+
 /* Footer */
 #closing-line {
     height: 5px;  
@@ -218,11 +237,15 @@ footer {
     /* Main Content */
     main {
         /* Push main content down to accomodate larger header */
-    margin-top: 130px;
+        margin-top: 130px;
     }
     #reasons hr {
         width: 150px;
     }
+    /* Styling of the intro text on all pages */
+    #introduction {
+        margin-top: 50px;  
+}
 }
 
 /* Media query: Laptops and larger (992px and up) */
