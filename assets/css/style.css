@@ -190,6 +190,11 @@ main {
     justify-content: center;
 }
 
+#introduction i {
+    display: flex;
+    justify-content: center;
+}
+
 /* Footer */
 #closing-line {
     height: 5px;  
