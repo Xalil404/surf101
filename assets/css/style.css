@@ -225,8 +225,25 @@ main {
     text-align: center;
 }
 
+/* Videos styles */
+.video {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%;
+    margin-top: 50px;
+}
 
-
+.responsive-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    
+}
 
 /* Footer */
 #closing-line {
@@ -284,6 +301,11 @@ footer {
     #introduction {
         margin-top: 50px;  
 }
+
+/* Videos styles */
+.video {
+    margin-top: 100px;
+}
 }
 
 /* Media query: Laptops and larger (992px and up) */
@@ -313,6 +335,4 @@ footer {
 #equip-1 p {
     font-size: 30px;
 }
-
-
 }
