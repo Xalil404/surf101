@@ -171,7 +171,7 @@ main {
     padding: 5px 10px;
 }
 
-/* Styling of the intro text on all pages */
+/* Styling of the intro text on all html pages */
 #introduction {
     text-align: justify;
     margin-top: 20px;
@@ -213,14 +213,20 @@ main {
     margin-bottom: 20px;
 }
 
-/* Equipment Video */
-#equipment_video video {
-    max-width: 100%;
-    height: auto;
-    margin-left: 40px;
-    overflow-x: hidden;
-    
+/* Section before Equipment Video */
+.divider {
+    background-color: #000000;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
 }
+
+
+
 
 /* Footer */
 #closing-line {
@@ -308,9 +314,5 @@ footer {
     font-size: 30px;
 }
 
-/* Equipment Video */
-#equipment_video {
-    display: flex;
-    justify-content: center;
-}
+
 }
