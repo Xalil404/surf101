@@ -213,7 +213,7 @@ main {
     margin-bottom: 20px;
 }
 
-/* Section before Equipment Video */
+/* Section before Equipment & surfing Videos */
 .divider {
     background-color: #000000;
     padding-top: 50px;
@@ -244,6 +244,21 @@ main {
     height: 100%;
     
 }
+
+/* Destinations styling */
+.destinations {
+    text-align: center;
+}
+
+.destinations_1_image {
+    width: 100%;
+}
+
+.destinations_1_map {
+    width: 100%;  
+}
+
+
 
 /* Gallery images */
 #gallery_images img {
@@ -354,5 +369,22 @@ footer {
 /* Gallery Images */
 #gallery_images {
     columns: 3;
+}
+
+/* Destinations styling*/
+.destinations {
+    display: flex;
+    flex-direction: row;
+}
+.destinations_1_name {
+    flex: 33%;  
+}
+
+.destinations_1_image {
+    flex: 33%;  
+}
+
+.destinations_1_map {
+    flex: 33%;  
 }
 }
