@@ -245,6 +245,14 @@ main {
     
 }
 
+/* Gallery images */
+#gallery_images img {
+    width: 100%; 
+}
+
+#gallery_images {
+    line-height: 0;
+}
 /* Footer */
 #closing-line {
     height: 5px;  
@@ -306,6 +314,13 @@ footer {
 .video {
     margin-top: 100px;
 }
+
+/* Gallery Images */
+#gallery_images {
+    columns: 2;
+    column-gap: 0;
+    
+}
 }
 
 /* Media query: Laptops and larger (992px and up) */
@@ -334,5 +349,10 @@ footer {
 
 #equip-1 p {
     font-size: 30px;
+}
+
+/* Gallery Images */
+#gallery_images {
+    columns: 3;
 }
 }
