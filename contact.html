@@ -49,9 +49,26 @@
 
     <!--Contact Form & background video-->
     <section>
+        <div>
         <video autoplay loop id="contact_video">
             <source src="assets/images/person_surfing_the_waves (720p).mp4" type="video/mp4">
           </video>
+          <form action="https://formdump.codeinstitute.net/" method="POST">
+            <h3>Get In Touch <i class="fa-regular fa-comments"></i></h3>
+
+            <label for="full_name">Full Name</label>
+            <input type="text" name="full_name" id="first_name" class="text-input" required placeholder='Enter full name'>
+            <br>
+            <label for="email_address">Email Address</label>
+            <input type="email" name="email_address" id="email_address" class="text-input" required placeholder='Enter email address'>
+            <br>
+            <p>What Information do you require?</p>
+            <textarea name="contact_message" id="contact_message" rows="5" cols="33" required></textarea>
+            <br>
+            <button type="submit" class="send_message">SEND MESSAGE</button>
+            
+        </form>
+        </div>
     </section>
 
     <!--Footer Section-->
