@@ -399,4 +399,8 @@ footer {
 .destinations_1_map {
     flex: 33%;  
 }
+
+.destinations_break {
+    margin-top: 20px;
+}
 }
