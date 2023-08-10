@@ -301,6 +301,12 @@ main {
     line-height: 0;
 }
 
+/* Contact page styling - video*/
+#contact_video {
+    width: 100%;  
+    
+}
+
 /* Footer */
 #closing-line {
     height: 5px;  
@@ -369,10 +375,10 @@ footer {
     column-gap: 0;
 }
 
-/* Resources page styling*/ 
+/* Resources page styling */
 .resources {
     display: flex;
-    align-items: stretch;
+    align-items: stretch; 
 }
 
 .resources_1_image {
