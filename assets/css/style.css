@@ -288,6 +288,10 @@ main {
     border: 10px solid #000000;  
 }
 
+.resources_1_link {
+    color: #ffffff;
+}
+
 /* Gallery images */
 #gallery_images img {
     width: 100%; 
