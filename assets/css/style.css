@@ -267,7 +267,26 @@ main {
     width: 100%;  
 }
 
+/* Resources Page Styling*/
+.resources {
+    text-align: center;
+    background-color: #000000;
+    line-height: 0;
+}
+.resources_1_image {
+    width: 100%;
+}
 
+.resources_1_text {
+    margin-bottom: 30px;
+    margin-top: 30px; 
+    line-height: 1.9;
+    color: #ffffff;
+}
+
+.resourcess_break {
+    border: 10px solid #000000;  
+}
 
 /* Gallery images */
 #gallery_images img {
@@ -277,6 +296,7 @@ main {
 #gallery_images {
     line-height: 0;
 }
+
 /* Footer */
 #closing-line {
     height: 5px;  
@@ -343,7 +363,20 @@ footer {
 #gallery_images {
     columns: 2;
     column-gap: 0;
-    
+}
+
+/* Resources page styling*/ 
+.resources {
+    display: flex;
+    align-items: stretch;
+}
+
+.resources_1_image {
+    width: 50%;
+}
+
+.resourcess_break {
+    border: 0px;
 }
 }
 
@@ -402,5 +435,10 @@ footer {
 
 .destinations_break {
     margin-top: 20px;
+}
+
+/* Resources styling*/
+.resources_1_text {
+    margin-top: 7%;
 }
 }
