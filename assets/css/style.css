@@ -356,6 +356,7 @@ button {
     justify-content: center;
 }
 
+/* FAQ section styling */
 .faq {
     margin-top: 20px; 
     margin-bottom: 20px; 
@@ -467,6 +468,12 @@ form {
 textarea {
     display: block;  
     margin: auto;
+}
+
+/* FAQ section styling */
+.faq {
+    width: 50%;
+    margin-left: 25%;  
 }
 }
 
