@@ -395,6 +395,11 @@ footer {
     padding: 5%;
 }
 
+.copyright {
+    text-align: center;
+    color: #ffffff; 
+}
+
 /* Media query: Tablets and larger (768px and up) */
 @media  screen and (min-width: 768px) {
     /* Header */
