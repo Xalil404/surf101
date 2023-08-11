@@ -555,4 +555,10 @@ input {
     cursor: pointer;
     transition-duration: 0.7s;
 }
+
+/* FAQ section styling */
+.faq {
+    width: 25%;
+    margin-left: 37%; 
+}
 }
