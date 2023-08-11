@@ -48,38 +48,26 @@
     </main>
 
     <!--Contact Form & background video-->
-    <section id="video_form">
-        
+    <section>
         <video autoplay loop class="contact_video">
-            <source src="assets/images/person_surfing_the_waves (720p).mp4" type="video/mp4">
+        <source src="assets/images/person_surfing_the_waves (720p).mp4" type="video/mp4">
           </video>
-        
           <h3 class="form_title">Get In Touch <i class="fa-regular fa-comments"></i></h3>
-
           <form action="https://formdump.codeinstitute.net/" method="POST" target="_blank">
-
-            
-            <label for="full_name" class="label">Full Name</label>
-            <br>
-            <div class="input_field">
-            <input type="text" name="full_name" id="first_name" class="text-input" required placeholder='Enter full name'>
-            </div>
-            <br>
-            
-            <label for="email_address" class="label">Email Address</label>
-            <br>
-            <div class="input_field">
-            <input type="email" name="email_address" id="email_address" class="text-input" required placeholder='Enter email address'>
-            </div>
-            <br>
-            
-            <p class="textarea_label">What Information do you require?</p>
-            <textarea name="contact_message" id="contact_message" rows="10" cols="33" required></textarea>
-            
-            <br>
-            <div class="submit_container">
-            <button type="submit" class="send_message">SEND MESSAGE</button>
-        </div>
+          <label for="full_name">Full Name</label>
+          <br>
+          <input type="text" name="full_name" id="first_name" required placeholder='Enter full name'>
+          <br>
+          <label for="email_address">Email Address</label>
+          <br>
+          <input type="email" name="email_address" id="email_address" required placeholder='Enter email address'>
+          <br>
+          <p class="textarea_label">What Information do you require?</p>
+          <textarea name="contact_message" id="contact_message" rows="10" cols="33" required></textarea>
+          <br>
+          <div class="submit_container">
+          <button type="submit" class="send_message">SEND MESSAGE</button>
+         </div>
         </form>
     </section>
 
