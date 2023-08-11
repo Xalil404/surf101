@@ -348,6 +348,8 @@ input {
 
 textarea {
     border-radius: 5px;
+    display: block;  
+    margin: auto;
 }
 
 button {
@@ -463,11 +465,6 @@ form {
     margin-left: 20%;
     margin-right: 20%; 
     border-radius: 5%; 
-}
-
-textarea {
-    display: block;  
-    margin: auto;
 }
 
 /* FAQ section styling */
