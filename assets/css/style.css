@@ -253,8 +253,8 @@ main {
 
 /* Destinations styling */
 .destinations {
-    text-align: center;
-    background-color: #000000;
+    text-align: center;  
+    background-color: #85bf31;
     line-height: 0;
 }
 
@@ -276,7 +276,7 @@ main {
 /* Resources Page Styling*/
 .resources {
     text-align: center;
-    background-color: #000000;
+    background-color: #85bf31;
     line-height: 0;
 }
 .resources_1_image {
