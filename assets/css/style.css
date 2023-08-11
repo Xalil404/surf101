@@ -529,4 +529,11 @@ form {
 input {
     width: 45%;
 }
+
+.submit_container > button:hover {
+    background-color: #000000; 
+    color: #ffffff;
+    cursor: pointer;
+    transition-duration: 0.7s;
+}
 }
