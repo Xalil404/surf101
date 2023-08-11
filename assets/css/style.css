@@ -487,6 +487,22 @@ form {
     width: 150px;
 }
 
+#reasons_container {
+    width: 50%;
+}
+
+#global_container {
+    display: flex;
+}
+
+#empty_container {
+    background-image: url(../images/lacie-slezak-7yqyQQXgOT8-unsplash.webp);
+    width: 50%; 
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
 #start-button:hover {
     background-color: #85bf31;  
     color: #ffffff;
