@@ -433,6 +433,25 @@ footer {
 .resourcess_break {
     border: 0px;
 }
+
+/*contact form*/
+input {
+    width: 30%;   
+    display: block;  
+    margin: auto;
+      
+}
+
+form {
+    margin-left: 20%;
+    margin-right: 20%; 
+    border-radius: 5%; 
+}
+
+textarea {
+    display: block;  
+    margin: auto;
+}
 }
 
 /* Media query: Laptops and larger (992px and up) */
