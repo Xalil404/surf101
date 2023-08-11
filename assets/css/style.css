@@ -370,13 +370,8 @@ details > summary {
 }
 
 /* Footer */
-#closing-line {
-    height: 5px;  
-    background-color: #000000;
-}
-
 footer {
-    background-color: #ffffff;
+    background-color: #000000;
 }
 
 #social-networks {
