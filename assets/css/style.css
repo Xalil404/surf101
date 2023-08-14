@@ -112,7 +112,6 @@ main {
     padding-left: 10px;
     opacity: 0.7; 
     right: 0px;
-     
 }
 
 /* Reasons section */
@@ -132,7 +131,6 @@ main {
     padding-left: 50px;
     padding-right: 50px; 
     text-align: justify; 
-    
 }
 
 #reason-2 {
@@ -149,7 +147,6 @@ main {
     padding-left: 50px;
     padding-right: 50px; 
     text-align: justify; 
-    
 }
 
 #reason-4 {
@@ -158,7 +155,6 @@ main {
     padding-left: 50px;
     padding-right: 50px; 
     text-align: justify;
-    
 }
 
 /* Get Started Button */
@@ -187,7 +183,6 @@ main {
     font-size: 25px;
     letter-spacing: 0.5px;
     line-height: 1.9;
-    
 }
 
 #introduction h5 {
@@ -248,7 +243,6 @@ main {
     right: 0;
     width: 100%;
     height: 100%;
-    
 }
 
 /* Destinations styling */
@@ -329,14 +323,12 @@ form label {
     padding-top: 30px;
     display: flex;
     justify-content: center;
-    
 }
 
 input {
     width: 100%; 
     margin-bottom: 20px;
     border-radius: 5px;
-    
 }
 
 .textarea_label {
@@ -468,7 +460,6 @@ input {
     width: 55%;   
     display: block;  
     margin: auto;
-      
 }
 
 form {
@@ -519,6 +510,7 @@ form {
     cursor: pointer;
     transition-duration: 0.7s;
 }
+
 /* Equipment page images to not look too large on desktop */
 #equip-1 img {
     max-width: 60%; 
@@ -546,7 +538,6 @@ form {
 .destinations_1_image {
     flex: 33%;
     width: 33%;
-   
 }
 
 .destinations_1_map {
