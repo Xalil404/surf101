@@ -115,7 +115,7 @@ main {
 }
 
 /* Reasons section */
-#reasons h2 {
+.reasons h2 {
     text-align: center;
     font-size: 30px;
     font-style: italic;
@@ -417,7 +417,7 @@ footer {
         /* Push main content down to accomodate larger header */
         margin-top: 130px;
     }
-    #reasons hr {
+    .reasons hr {
         width: 150px;
     }
     /* Styling of the intro text on all pages */
@@ -484,11 +484,11 @@ form {
         width: 51%;
 }
 
-#reasons hr {
+.reasons hr {
     width: 150px;
 }
 
-#reasons_container {
+.reasons_container {
     width: 50%;
 }
 
