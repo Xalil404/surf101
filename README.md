@@ -7,13 +7,13 @@ Surfing is an inspirational sport that immediately infects someone with the desi
 The website consists of 7 pages with each page addressing a theme or topic related to surfing. 
 
 ### Home page
-The home page has an eye-catching image with a message in the bottom right corner of the hero image on what the website is about.
-<img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1692013797/Project%201/Screenshot_2023-08-14_at_12.42.29_PM_ymiaeh.png" width="auto" height="auto" alt="image of the surf 101 home page"></p> 
+* The home page has an eye-catching image with a message in the bottom right corner of the hero image on what the website is about.
+<img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1692014777/Project%201/Screenshot_2023-08-14_at_1.06.03_PM_aev435.png" width="auto" height="auto" alt="image of the surf 101 home page"></p> 
 
-The home page also displays the benefits of surfing and why someone should take up the sport. 
+* The home page also displays the benefits of surfing and why someone should take up the sport. 
 <img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1692013799/Project%201/Screenshot_2023-08-14_at_12.42.58_PM_adevrp.png" width="auto" height="auto" alt="image of the surfing benefits"></p> 
 
-Towards the bottom of the page, above the footer, a call-to-action button with a hover effect is present as an indication for a potential user to proceed to reading the initial required information about the sport in an orderly fashion instead of hopping around the different pages.
+* Towards the bottom of the page, above the footer, a call-to-action button with a hover effect is present as an indication for a potential user to proceed to reading the initial required information about the sport in an orderly fashion instead of hopping around the different pages.
 <img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1692013796/Project%201/Screenshot_2023-08-14_at_12.43.28_PM_s3p8xo.png" width="auto" height="auto" alt="image of the site footer"></p> 
 
 ### Navigation Bar
@@ -40,7 +40,7 @@ Towards the bottom of the page, above the footer, a call-to-action button with a
 
 ### Gallery page
 * The gallery page provides interesting and inspiring images of surfers riding waves.
-<img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1692013802/Project%201/Screenshot_2023-08-14_at_12.47.51_PM_amx7en.png" width="auto" height="auto" alt="image of the gallery page"></p>
+<img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1692014847/Project%201/Screenshot_2023-08-14_at_1.07.09_PM_wnbizn.png" width="auto" height="auto" alt="image of the gallery page"></p>
 
 ### Contact page
 * The final contact page provides a form for a user to fill out should they want to get in touch and request additional information regarding surfing that is not present on the website. In addition to the contact form, there is an FAQ widget answering common questions people have about surfing.
