@@ -97,7 +97,7 @@ main {
 #hero {
      height: 600px;
      width: 100%;  
-     background: url(../images/pexels-nathan-cowley-2476157.webp) no-repeat center center/cover;
+     background: url(../images/hero.webp) no-repeat center center/cover;
      position: relative;
 }
 
@@ -497,7 +497,7 @@ form {
 }
 
 #empty_container {
-    background-image: url(../images/lacie-slezak-7yqyQQXgOT8-unsplash.webp);
+    background-image: url(../images/hero2.webp); 
     width: 50%; 
     height: auto;
     background-repeat: no-repeat;
