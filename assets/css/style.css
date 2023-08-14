@@ -433,6 +433,11 @@ footer {
         margin-top: 50px;  
 }
 
+/* Styling for intro sections on each page */
+h5, h6 {
+    font-size: larger;
+}
+
 /* Videos styles */
 .video {
     margin-top: 100px;
