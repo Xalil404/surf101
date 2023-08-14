@@ -90,14 +90,7 @@ The website consists of 7 pages with each page addressing a theme or topic relat
 
 
 ## Deployment
-The site was deployed to GitHub pages. The steps to deploy are as follows:
-* In the GitHub repository, navigate to the Settings tab.
-
-* From the source section drop-down menu, select the Master Branch.
-
-* Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-
-The live link can be found [here](https://xalil404.github.io/surf101). 
+The site was deployed to GitHub pages; the live link can be found [here](https://xalil404.github.io/surf101). 
 
 ## Credits
 * All images and contact page background video were taken from [Unsplash](https://unsplash.com/) & [Pixels](https://www.pexels.com/).
@@ -111,9 +104,4 @@ The live link can be found [here](https://xalil404.github.io/surf101).
 * [W3](https://www.w3schools.com/) , [Mozilla](https://developer.mozilla.org/) and the [Love Running](https://xalil404.github.io/Love_Running/) project were used for HTML tag and CSS property references.
 
 * [Online Converter](https://www.online-convert.com/) was used to convert jpeg or png images into webp files.
-
-
-
-
-
 
