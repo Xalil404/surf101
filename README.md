@@ -86,7 +86,7 @@ The website consists of 7 pages with each page addressing a theme or topic relat
 
 
 * The lighthouse report provided a good score.  
-<img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1692020978/Project%201/Screenshot_2023-08-14_at_2.49.25_PM_myddg6.png" width="auto" height="auto" alt="image of the lighthouse report results"></p>
+<img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1692026635/Project%201/Screenshot_2023-08-14_at_4.00.52_PM_psmx9o.png" width="auto" height="auto" alt="image of the lighthouse report results"></p>
 
 
 ## Deployment
