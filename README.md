@@ -37,19 +37,19 @@ The website consists of 7 pages with each page addressing a theme or topic relat
 <img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1692013796/Project%201/Screenshot_2023-08-14_at_12.45.51_PM_xcbpnj.png" width="auto" height="auto" alt="image of the equipment page"></p> 
 
 ### Surfing page
-* Once a user has purchased the necessary equipment, the surfing page gives instructions on what the user would need to do once they arrive at the beach and are ready to enter the water.
+* Once a user has knowledge of the needed equipment, the surfing page gives instructions on what the user would need to do once they arrive at the beach and are ready to enter the water.
 
 
 <img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1692013794/Project%201/Screenshot_2023-08-14_at_12.46.12_PM_g1hvsg.png" width="auto" height="auto" alt="image of the surfing page"></p>
 
 ### Destinations page
-* Waves don't exist everywhere, therefore the destinations page provides a list of destinations where a potential surfer would be guaranteed with catching good surf.  Each destinations is broken down into 3 section, a description of the location, an image of the location and an embedded google map to easily find the location on Google Maps.
+* Waves don't exist everywhere, therefore the destinations page provides a list of destinations where a potential surfer would be guaranteed with catching good surf.  Each destination is broken down into 3 sections, a description of the location, an image of the location and an embedded google map to easily find the location on Google Maps.
 
 
 <img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1692013797/Project%201/Screenshot_2023-08-14_at_12.46.52_PM_e7oqh5.png" width="auto" height="auto" alt="image of the destinations page"></p>
 
 ### Resources page
-* The resources page provides a list of useful websites that surfer could turn for reference on news regarding surfing or where to find good surfing spots around the world.
+* The resources page provides a list of useful websites that a surfer could turn to for reference on news regarding surfing or where to find good surfing spots around the world i.e. a surf atlas.
 
 
 <img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1692013797/Project%201/Screenshot_2023-08-14_at_12.47.18_PM_kp0miz.png" width="auto" height="auto" alt="image of the resources page"></p>
@@ -73,19 +73,19 @@ The website consists of 7 pages with each page addressing a theme or topic relat
 ## Testing
 * Manually tested all the pages and external links on the following browsers: Safar, Chrome & Firefox.
 
-* Manually tested the responsiveness of all pages on mobile devices, tablet and pc through the chrome browser developer tools.
+* Manually tested the responsiveness of all pages on mobile devices, tablets and PC through the Chrome browser developer tools.
 
 * Manually tested that the form submission works successfully and a user cannot submit a form without filling out all of the mandatory input fields. 
 
-* HTML: No errors were returned when passing through the official W3C validator.
+* HTML: No errors on all pages were returned when passing through the official W3C HTML validator.
 <img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1692020573/Project%201/Screenshot_2023-08-14_at_1.55.35_PM_yissby.png" width="auto" height="auto" alt="image of the HTML validator results"></p>
 
 
-* CSS: No errors were returned when passing through the official W3C validator.
+* CSS: No errors were returned when passing through the official W3C CSS validator.
 <img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1692020573/Project%201/Screenshot_2023-08-14_at_2.42.17_PM_kj6zmv.png" width="auto" height="auto" alt="image of the CSS validator results"></p>
 
 
-* The lighthouse report provided a good score.  
+* The lighthouse report provided a good overall score except for performance.    
 <img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1692026635/Project%201/Screenshot_2023-08-14_at_4.00.52_PM_psmx9o.png" width="auto" height="auto" alt="image of the lighthouse report results"></p>
 
 
@@ -105,3 +105,8 @@ The site was deployed to GitHub pages; the live link can be found [here](https:/
 
 * [Online Converter](https://www.online-convert.com/) was used to convert jpeg or png images into webp files.
 
+* [Github](https://github.com/) for version control.
+
+* [GoogleFonts](https://fonts.google.com/) for fonts selection.
+
+* [FontAwesome](https://fontawesome.com/) for icons selection.
