@@ -105,7 +105,7 @@ main {
     background-color: #ffffff ;
     font-size: larger;
     position: absolute;
-    bottom: 30px;
+    top: 50px;
     width: 70%;
     padding-bottom: 10px;
     padding-top: 10px;
@@ -431,6 +431,11 @@ footer {
         margin-top: 50px;  
 }
 
+/*Positioning of hero imagr cover text*/
+#cover-text {
+    top: 100px; 
+}
+
 /* Styling for intro sections on each page */
 h5, h6 {
     font-size: larger;
@@ -492,6 +497,7 @@ form {
     } 
     #cover-text {
         width: 51%;
+        top: 70px;
 }
 
 .reasons hr {
