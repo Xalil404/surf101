@@ -205,7 +205,7 @@ main {
 /* Equipment & Surfing pages styling */
 #equip-1 {
     margin: 40px;
-    text-align: center;
+    text-align: justify;    
     font-size: 20px;
     line-height: 1.9;
 }
@@ -528,6 +528,10 @@ form {
 }
 
 /* Equipment page images to not look too large on desktop */
+#equip-1 {
+    text-align: center;
+}
+
 #equip-1 img {
     max-width: 60%; 
 }
