@@ -58,7 +58,7 @@ The website consists of 7 pages with each page addressing a theme or topic relat
 * The gallery page provides interesting and inspiring images of surfers riding waves.
 
 
-<img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1692270653/Project%201/Screenshot_2023-08-17_at_12.07.57_PM_ef2sqd.png" width="auto" height="auto" alt="image of the gallery page">
+<img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1692271835/Project%201/Screenshot_2023-08-17_at_12.30.23_PM_mg36wy.png" width="auto" height="auto" alt="image of the gallery page">
 
 ### Contact page
 * The final contact page provides a form for a user to fill out should they want to get in touch and request additional information regarding surfing that is not present on the website. In addition to the contact form, there is an FAQ widget answering common questions people have about surfing.
