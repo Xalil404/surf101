@@ -15,7 +15,7 @@ body {
      flex-direction: column;
      /* Generic Project Styles */
      color: #3a3a3a; 
-     font-family: rem, sans-serif;
+     font-family: rem, sans-serif;  
 }
 
 h1 {
@@ -513,9 +513,9 @@ form {
 }
 
 #empty_container {
-    background-image: url(../images/hero2.webp); 
+    background-image: url(../images/tyler-nix-6mze64HRU2Q-unsplash\ \(1\).webp); 
     width: 50%; 
-    height: auto;
+    height: auto; 
     background-repeat: no-repeat;
     background-size: contain;
 }
