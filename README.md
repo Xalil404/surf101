@@ -10,7 +10,7 @@ The website consists of 7 pages with each page addressing a theme or topic relat
 * The home page has an eye-catching image with a message in the bottom right corner of the hero image on what the website is about.
 
 
-<img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1692270657/Project%201/Screenshot_2023-08-17_at_12.06.01_PM_vfc66s.png" width="auto" height="auto" alt="image of the surf 101 home page">
+<img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1692271707/Project%201/Screenshot_2023-08-17_at_12.27.46_PM_xrnutc.png" width="auto" height="auto" alt="image of the surf 101 home page">
 
 * The home page also displays the benefits of surfing and why someone should take up the sport. 
 
