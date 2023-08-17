@@ -298,7 +298,7 @@ main {
 }
 
 #gallery_images {
-    line-height: 0;
+    line-height: 2;
 }
 
 /* Contact page styling - video*/
@@ -438,7 +438,7 @@ h5, h6 {
 /* Gallery Images */
 #gallery_images {
     columns: 2;
-    column-gap: 0;
+    column-gap: 10px;
 }
 
 #gallery_images img {
